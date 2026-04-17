@@ -1,0 +1,6 @@
+com\qa\tests\ProceedToCheckoutTest.class
+com\qa\tests\ContactUsTest.class
+com\qa\tests\ProductAndCartTest.class
+com\qa\tests\ProductTest.class
+com\qa\tests\RegisterTest.class
+com\qa\tests\LogoutTest.class

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Test Suite" verbose="1">
+    <test name="All Tests">
+        <classes>
+            <class name="com.qa.tests.ContactUsTest"/>
+            <class name="com.qa.tests.LogoutTest"/>
+            <class name="com.qa.tests.ProceedToCheckoutTest"/>
+            <class name="com.qa.tests.ProductAndCartTest"/>
+            <class name="com.qa.tests.ProductTest"/>
+            <class name="com.qa.tests.RegisterTest"/>
+        </classes>
+    </test>
+</suite>

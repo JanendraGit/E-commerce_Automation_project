@@ -1,3 +1,7 @@
 D:\QA\projects\E-Commerce_System\playwright-framework\src\main\java\com\qa\base\BaseTest.java
+D:\QA\projects\E-Commerce_System\playwright-framework\src\main\java\com\qa\pages\ContactUsPage.java
+D:\QA\projects\E-Commerce_System\playwright-framework\src\main\java\com\qa\pages\ProceedToCheckoutPage.java
+D:\QA\projects\E-Commerce_System\playwright-framework\src\main\java\com\qa\pages\ProductAndCartPage.java
+D:\QA\projects\E-Commerce_System\playwright-framework\src\main\java\com\qa\pages\ProductPage.java
 D:\QA\projects\E-Commerce_System\playwright-framework\src\main\java\com\qa\pages\RegisterPage.java
 D:\QA\projects\E-Commerce_System\playwright-framework\src\main\java\com\qa\utils\ConfigReader.java

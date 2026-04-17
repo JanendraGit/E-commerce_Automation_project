@@ -1,0 +1,7 @@
+com\qa\base\BaseTest.class
+com\qa\pages\ProductAndCartPage.class
+com\qa\pages\ContactUsPage.class
+com\qa\pages\ProductPage.class
+com\qa\pages\ProceedToCheckoutPage.class
+com\qa\pages\RegisterPage.class
+com\qa\utils\ConfigReader.class
